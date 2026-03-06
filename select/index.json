@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ミスター",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-03-06T18:20:31.441951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミスター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_ミスター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミスター・サンドマン",
+      "artist": "The Chordettes",
+      "has_synced": true,
+      "path": "select/02_ミスター・サンドマン_The_Chordettes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハロー・ミスター・モンキー",
+      "artist": "Arabesque",
+      "has_synced": true,
+      "path": "select/03_ハロー・ミスター・モンキー_Arabesque.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミスター",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/04_ミスター_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミスター",
+      "artist": "Kara",
+      "has_synced": true,
+      "path": "select/05_ミスター_Kara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミスター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_ミスター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドライヴ・ミー・クレイジー(feat.ミスター・イージー)",
+      "artist": "ケヴィン・リトル",
+      "has_synced": false,
+      "path": "select/07_ドライヴ・ミー・クレイジー(feat.ミスター・イージー)_ケヴィン・リトル.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミスター",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/08_ミスター_KARA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミスター(リマスタリング)",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/09_ミスター(リマスタリング)_KARA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミスター・スマイル",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/10_ミスター・スマイル_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミスター・ブルースカイ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/11_ミスター・ブルースカイ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミスター・ブルースカイ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/12_ミスター・ブルースカイ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ミスター・ミスメイカー",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/13_ミスター・ミスメイカー_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ミスター・ミスメイカー",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/14_ミスター・ミスメイカー_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ミスター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/15_ミスター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ミスター - Mr.",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/16_ミスター_-_Mr._YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミスター",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_ミスター_YOASOBI.txt"
+    }
+  ]
+}
